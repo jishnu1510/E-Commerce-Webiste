@@ -1,4 +1,4 @@
-# E-Commerce-Webiste For Automative parts
+# E-Commerce Webiste For Automative parts
 ## Spring Boot Project
 ### Description :
 * This is website to buy automative parts online
