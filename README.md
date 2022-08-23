@@ -8,4 +8,4 @@ Spring Boot Project
 * As an admin you will be able to add your on categories and product in the website which will be displayed to the user for buying.
 * We have also included an online payment option which will help user to pay for the products online itself.
 
-------------------------------------------------------------
+_____
