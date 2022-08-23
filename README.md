@@ -1,11 +1,44 @@
-# E-Commerce-Webiste
+# E-Commerce-Webiste For Automative parts
 Spring Boot Project
 
 ------------------------------------------------------------
-### Description
+### Description :
+* This is website to buy automative parts online
+* User Firendly
+* Adding and managing products
+* Single Sign On
+* Chatbot
+* This is a graduate level project developed using Java, Spring Boot, Mysql, etc.
 
-* Autoparts plus is an user friendly e-commerce website which provides users an option to buy any automotive parts for their vechile from online, within few steps.
-* As an admin you will be able to add your on categories and product in the website which will be displayed to the user for buying.
-* We have also included an online payment option which will help user to pay for the products online itself.
+### Admin Module :
+* Add Categories
+* Add Products
+* View Users
+* Delete/Update Categories
+* Delete/Update Products 
 
-_____
+### User Module :
+* Register
+* Login 
+* SSO (Single Sign On)
+* View Products 
+* Add to Cart
+* Checkout Page
+* Online Payment 
+
+### Languages Used :
+1. Front-End :
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+
+2. Back-End :
+* Java
+* Spring Boot
+* Hibernate
+* Maven Dependecies
+
+3. Database :
+* MySQL
+
